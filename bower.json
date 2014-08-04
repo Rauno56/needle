@@ -1,7 +1,7 @@
 {
   "name": "needle",
   "version": "1.0.0",
-  "main": "Needle.js",
+  "main": "lib/Needle.js",
   "authors": [
     "Rauno56 <Rauno56@gmail.com>"
   ],
@@ -10,6 +10,7 @@
     "**/.*",
     "node_modules",
     "bower_components",
+    "demo",
     "test",
     "tests"
   ]
